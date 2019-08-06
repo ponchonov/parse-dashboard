@@ -7,7 +7,7 @@
       "appName": "remindeio"
     }    
   ],
-  "allowInsecureHTTP":1,
+ "allowInsecureHTTP": true,
  "users": [
     {
       "user":"poncho",

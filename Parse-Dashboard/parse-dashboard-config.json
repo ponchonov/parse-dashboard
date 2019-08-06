@@ -1,12 +1,16 @@
 {
-  "apps": [{
-    "serverURL": "http://localhost:1338/parse",
-    "appId": "hello",
-    "masterKey": "world",
-    "appName": "",
-    "iconName": "",
-    "primaryBackgroundColor": "",
-    "secondaryBackgroundColor": ""
-  }],
-  "iconsFolder": "icons"
+  "apps": [
+    {
+      "serverURL": "https://remindeio.herokuapp.com",
+      "appId": "124345322223",
+      "masterKey": "123211234345254563",
+      "appName": "remindeio"
+    }    
+  ],
+ "allowInsecureHTTP": true,
+ "users": [
+    {
+      "user":"poncho",
+      "pass":"tikitaka"
+    }]
 }

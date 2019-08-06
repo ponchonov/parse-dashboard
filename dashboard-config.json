@@ -6,6 +6,11 @@
       "masterKey": "123211234345254563",
       "appName": "remindeio"
     }    
-  ]
-  "allowInsecureHTTP":1
+  ],
+  "allowInsecureHTTP":1,
+ "users": [
+    {
+      "user":"poncho",
+      "pass":"tikitaka"
+    }]
 }

@@ -5,6 +5,7 @@
       "appId": "124345322223",
       "masterKey": "123211234345254563",
       "appName": "remindeio"
-    }
+    }    
   ]
+  "allowInsecureHTTP":1
 }
